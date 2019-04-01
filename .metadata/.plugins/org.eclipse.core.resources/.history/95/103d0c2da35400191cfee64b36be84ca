@@ -1,0 +1,17 @@
+
+public class ThreeDimesionalArrays {
+
+	public static void main(String[] args) {
+		String [][][] name={
+				{
+					{"小青","小红"},
+					{"小绿","小白"}
+				},
+				{
+					{"小明","小红"},
+					{"小军","小白"}
+				}
+		};
+	}
+
+}
